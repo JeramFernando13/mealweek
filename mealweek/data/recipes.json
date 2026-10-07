@@ -1,0 +1,342 @@
+[
+  {
+    "id": "farro-pollo-zucca",
+    "name": "Insalata di farro con pollo, zucca, feta e melograno",
+    "category": "pranzo",
+    "portions": 1,
+    "time": "40 min",
+    "kcal": 700,
+    "protein": 50,
+    "tags": ["autunno", "si mangia freddo", "schiscetta"],
+    "keeps": "Frigo 2 giorni. Buona anche fredda, niente microonde.",
+    "ingredients": [
+      ["90 g", "farro (perlato cuoce prima)"],
+      ["150 g", "petto di pollo"],
+      ["200 g", "zucca delica"],
+      ["40 g", "feta"],
+      ["½", "melograno"],
+      ["1 manciata", "rucola"],
+      ["1 cucchiaio", "olio d'oliva"],
+      ["q.b.", "sale, pepe, paprika affumicata"]
+    ],
+    "steps": [
+      "Cuoci il farro in acqua salata: 15-20 min se perlato, 30 min se integrale. Scola e fai raffreddare.",
+      "Taglia la zucca a cubetti (la delica non serve sbucciarla), condisci con un filo d'olio, sale e un pizzico di paprika. Forno a 200 °C per 25 min.",
+      "Taglia il pollo a striscioline e cuocilo in padella con un filo d'olio, sale e pepe per 6-8 min.",
+      "Sgrana il melograno: taglialo a metà e batti il dorso con un cucchiaio sopra una ciotola.",
+      "Unisci farro, zucca, pollo, feta sbriciolata, melograno e rucola. Condisci con l'olio rimasto."
+    ],
+    "tips": "Prepara tutto il sabato sera: la domenica la prendi dal frigo ed esci."
+  },
+  {
+    "id": "wrap-pollo-paprika",
+    "name": "Wrap di pollo alla paprika affumicata",
+    "category": "pranzo",
+    "portions": 1,
+    "time": "20 min",
+    "kcal": 650,
+    "protein": 55,
+    "tags": ["veloce", "a casa"],
+    "keeps": "Da mangiare subito.",
+    "ingredients": [
+      ["2", "tortillas o piadine integrali"],
+      ["150 g", "petto di pollo"],
+      ["1 cucchiaino", "paprika affumicata"],
+      ["100 g", "yogurt greco"],
+      ["1 spicchio", "aglio"],
+      ["1 manciata", "cavolo cappuccio a striscioline"],
+      ["40 g", "mais"],
+      ["1 cucchiaino", "olio d'oliva"]
+    ],
+    "steps": [
+      "Taglia il pollo a strisce e mescolalo con paprika, olio e sale.",
+      "Cuocilo in padella ben calda per 6-7 min, finché è dorato.",
+      "Salsa: yogurt greco con mezzo spicchio d'aglio grattugiato, sale e pepe.",
+      "Scalda le tortillas 20 secondi per lato in padella.",
+      "Spalma la salsa, aggiungi cavolo, mais e pollo. Arrotola stretto."
+    ],
+    "tips": "Il cavolo crudo dà la croccantezza: non saltarlo."
+  },
+  {
+    "id": "curry-pollo-zucca",
+    "name": "Curry di pollo e zucca con riso basmati",
+    "category": "cena",
+    "portions": 2,
+    "time": "35 min",
+    "kcal": 700,
+    "protein": 48,
+    "tags": ["autunno", "batch", "si riscalda bene"],
+    "keeps": "Frigo 3 giorni. Il giorno dopo è ancora più buono.",
+    "ingredients": [
+      ["350 g", "petto di pollo a cubetti"],
+      ["400 g", "zucca a cubetti"],
+      ["1", "cipolla"],
+      ["1 spicchio", "aglio"],
+      ["1 cm", "zenzero fresco"],
+      ["2 cucchiaini", "curry in polvere"],
+      ["200 ml", "latte di cocco light"],
+      ["180 g", "riso basmati"],
+      ["1 cucchiaio", "olio d'oliva"]
+    ],
+    "steps": [
+      "Metti a cuocere il riso.",
+      "In una padella larga soffriggi cipolla tritata, aglio e zenzero grattugiato nell'olio per 3-4 min.",
+      "Aggiungi il pollo e rosolalo 4-5 min.",
+      "Unisci il curry e mescola per 1 minuto, così sprigiona il profumo.",
+      "Aggiungi zucca, latte di cocco e 100 ml d'acqua. Copri e cuoci 20 min, finché la zucca è morbida. Aggiusta di sale.",
+      "Dividi in 2 contenitori con il riso: uno per stasera, uno per domani."
+    ],
+    "tips": "Se vuoi più piccante aggiungi un pizzico di peperoncino."
+  },
+  {
+    "id": "polenta-spezzatino-funghi",
+    "name": "Polenta con spezzatino di tacchino ai funghi",
+    "category": "cena",
+    "portions": 2,
+    "time": "45 min",
+    "kcal": 650,
+    "protein": 50,
+    "tags": ["autunno", "batch", "comfort"],
+    "keeps": "Frigo 3 giorni.",
+    "ingredients": [
+      ["350 g", "spezzatino di tacchino"],
+      ["400 g", "funghi champignon o misti"],
+      ["1", "cipolla"],
+      ["1 spicchio", "aglio"],
+      ["150 g", "passata di pomodoro"],
+      ["180 g", "polenta istantanea"],
+      ["20 g", "grana"],
+      ["1 cucchiaio", "olio d'oliva"],
+      ["q.b.", "rosmarino o salvia se li hai"]
+    ],
+    "steps": [
+      "Rosola il tacchino nell'olio a fuoco alto per 5 min, poi tienilo da parte.",
+      "Nella stessa pentola cuoci cipolla e aglio 3 min, poi i funghi a fette per 5 min.",
+      "Rimetti il tacchino, aggiungi passata, 150 ml d'acqua, sale ed erbe. Coperto, fuoco basso, 25-30 min.",
+      "Polenta istantanea: segui la confezione (circa 5 min), alla fine manteca con il grana.",
+      "Una porzione stasera, una nel contenitore per domani."
+    ],
+    "tips": "Per riscaldarla: la polenta diventa soda, tagliala a fette e mettici sopra il sugo dello spezzatino. Microonde 2 min."
+  },
+  {
+    "id": "chili-leggero",
+    "name": "Chili leggero con riso",
+    "category": "cena",
+    "portions": 2,
+    "time": "35 min",
+    "kcal": 700,
+    "protein": 50,
+    "tags": ["batch", "speziato"],
+    "keeps": "Frigo 3 giorni, anche congelabile.",
+    "ingredients": [
+      ["300 g", "macinato di manzo magro"],
+      ["1 barattolo", "fagioli rossi (metà se ti gonfiano)"],
+      ["1", "peperone"],
+      ["1", "cipolla"],
+      ["1 spicchio", "aglio"],
+      ["300 g", "passata di pomodoro"],
+      ["1 cucchiaino", "cumino"],
+      ["1 cucchiaino", "paprika affumicata"],
+      ["160 g", "riso basmati"]
+    ],
+    "steps": [
+      "Metti a cuocere il riso.",
+      "Soffriggi cipolla, aglio e peperone a cubetti per 5 min.",
+      "Aggiungi la carne e sgranala con il cucchiaio finché non è più rosa (5 min).",
+      "Unisci cumino e paprika, mescola 1 minuto.",
+      "Aggiungi passata e fagioli scolati e sciacquati. Fuoco basso 20 min. Sale.",
+      "Una porzione stasera, una per domani."
+    ],
+    "tips": "Con un cucchiaio di yogurt greco sopra diventa più cremoso e meno piccante."
+  },
+  {
+    "id": "manzo-teriyaki",
+    "name": "Bowl di manzo teriyaki con riso e broccoli",
+    "category": "cena",
+    "portions": 2,
+    "time": "25 min",
+    "kcal": 700,
+    "protein": 50,
+    "tags": ["batch", "dolce-salato"],
+    "keeps": "Frigo 2 giorni.",
+    "ingredients": [
+      ["350 g", "straccetti o fesa di manzo"],
+      ["1 testa", "broccoli"],
+      ["180 g", "riso basmati"],
+      ["4 cucchiai", "salsa di soia"],
+      ["2 cucchiai", "miele"],
+      ["1 spicchio", "aglio"],
+      ["1 cm", "zenzero fresco"],
+      ["1 cucchiaino", "semi di sesamo"]
+    ],
+    "steps": [
+      "Metti a cuocere il riso.",
+      "Dividi i broccoli in cimette e cuocili in padella con un dito d'acqua, coperti, per 5 min.",
+      "Salsa: soia, miele, aglio e zenzero grattugiati, 2 cucchiai d'acqua.",
+      "Padella molto calda con un filo d'olio: manzo 2 min, girandolo spesso.",
+      "Versa la salsa e lascia 1-2 min finché diventa lucida e glassata.",
+      "Componi le bowl: riso, broccoli, manzo con la salsa, sesamo sopra."
+    ],
+    "tips": "Il manzo va cotto poco e a fuoco alto, altrimenti diventa gommoso."
+  },
+  {
+    "id": "salmone-miele-senape",
+    "name": "Salmone miele e senape con patate dolci e broccoli",
+    "category": "cena",
+    "portions": 1,
+    "time": "35 min",
+    "kcal": 750,
+    "protein": 45,
+    "tags": ["forno", "tutto in una teglia"],
+    "keeps": "Da mangiare subito.",
+    "ingredients": [
+      ["200 g", "filetto di salmone"],
+      ["300 g", "patate dolci"],
+      ["½ testa", "broccoli"],
+      ["1 cucchiaino", "senape"],
+      ["1 cucchiaino", "miele"],
+      ["1 cucchiaio", "olio d'oliva"]
+    ],
+    "steps": [
+      "Forno a 200 °C. Patate dolci a spicchi con olio e sale in teglia: 15 min.",
+      "Aggiungi le cimette di broccoli nella teglia.",
+      "Mescola miele e senape e spennellali sul salmone.",
+      "Metti il salmone in teglia e cuoci tutto altri 12-15 min."
+    ],
+    "tips": "Il salmone è pronto quando si sfalda con la forchetta ma al centro è ancora rosato."
+  },
+  {
+    "id": "pizza-teglia",
+    "name": "Pizza in teglia cotto e funghi",
+    "category": "cena",
+    "portions": 1,
+    "time": "25 min",
+    "kcal": 950,
+    "protein": 50,
+    "tags": ["weekend", "sfizio"],
+    "keeps": "Da mangiare subito.",
+    "ingredients": [
+      ["1 rotolo", "pasta per pizza pronta"],
+      ["100 g", "passata di pomodoro"],
+      ["125 g", "mozzarella light"],
+      ["80 g", "prosciutto cotto"],
+      ["100 g", "funghi a fette"],
+      ["q.b.", "origano, olio, sale"]
+    ],
+    "steps": [
+      "Forno al massimo (220-250 °C).",
+      "Stendi la pasta sulla teglia, condisci la passata con sale, olio e origano e spalmala.",
+      "Inforna 7-8 min.",
+      "Aggiungi mozzarella a pezzetti e funghi, inforna altri 6-7 min.",
+      "Fuori dal forno aggiungi il prosciutto cotto."
+    ],
+    "tips": "Il cotto messo a fine cottura resta morbido."
+  },
+  {
+    "id": "overnight-oats-mela",
+    "name": "Overnight oats mela e cannella",
+    "category": "colazione",
+    "portions": 1,
+    "time": "5 min la sera prima",
+    "kcal": 450,
+    "protein": 25,
+    "tags": ["si prepara la sera"],
+    "keeps": "Frigo fino a 2 giorni.",
+    "ingredients": [
+      ["50 g", "avena"],
+      ["150 g", "yogurt greco"],
+      ["80 ml", "latte"],
+      ["½", "mela a cubetti"],
+      ["1 pizzico", "cannella"],
+      ["1 cucchiaino", "miele"]
+    ],
+    "steps": [
+      "In un barattolo mescola avena, yogurt, latte, cannella e miele.",
+      "Aggiungi la mela, chiudi e metti in frigo per la notte.",
+      "La mattina mangia freddo o 1 min al microonde."
+    ],
+    "tips": ""
+  },
+  {
+    "id": "skyr-granola-pera",
+    "name": "Skyr con granola, pera e noci",
+    "category": "colazione",
+    "portions": 1,
+    "time": "2 min",
+    "kcal": 450,
+    "protein": 25,
+    "tags": ["veloce"],
+    "keeps": "",
+    "ingredients": [["150 g", "skyr"], ["30 g", "granola"], ["1", "pera"], ["15 g", "noci"]],
+    "steps": ["Skyr nella ciotola, sopra pera a fette, granola e noci spezzettate."],
+    "tips": ""
+  },
+  {
+    "id": "uova-toast",
+    "name": "Uova strapazzate con toast integrale",
+    "category": "colazione",
+    "portions": 1,
+    "time": "8 min",
+    "kcal": 450,
+    "protein": 25,
+    "tags": ["salato"],
+    "keeps": "",
+    "ingredients": [["3", "uova"], ["2 fette", "pane integrale"], ["1", "frutto"]],
+    "steps": ["Sbatti le uova con un pizzico di sale.", "Padella a fuoco basso, mescola di continuo e togli quando sono ancora morbide.", "Servi con il pane tostato e un frutto."],
+    "tips": "Fuoco basso = uova cremose, non gommose."
+  },
+  {
+    "id": "pancake-proteici",
+    "name": "Pancake proteici con frutti di bosco",
+    "category": "colazione",
+    "portions": 1,
+    "time": "15 min",
+    "kcal": 500,
+    "protein": 25,
+    "tags": ["weekend"],
+    "keeps": "",
+    "ingredients": [["50 g", "avena"], ["2", "uova"], ["1", "banana"], ["1 manciata", "frutti di bosco"], ["1 cucchiaino", "miele"]],
+    "steps": ["Frulla avena, uova e banana.", "Padella antiaderente a fuoco medio-basso: 1 mestolino per pancake, 2 min per lato.", "Sopra frutti di bosco scaldati 1 min in padella e un filo di miele."],
+    "tips": "Gira il pancake quando in superficie compaiono le bollicine."
+  },
+  {
+    "id": "snack-yogurt-miele",
+    "name": "Yogurt greco con miele e cannella",
+    "category": "snack",
+    "portions": 1, "time": "1 min", "kcal": 200, "protein": 17, "tags": ["proteico"], "keeps": "",
+    "ingredients": [["170 g", "yogurt greco"], ["1 cucchiaino", "miele"], ["1 pizzico", "cannella"]],
+    "steps": ["Mescola e mangia."], "tips": ""
+  },
+  {
+    "id": "snack-panino-bresaola",
+    "name": "Panino integrale bresaola, rucola e grana",
+    "category": "snack",
+    "portions": 1, "time": "3 min", "kcal": 300, "protein": 25, "tags": ["dopo l'allenamento"], "keeps": "",
+    "ingredients": [["2 fette", "pane integrale"], ["50 g", "bresaola"], ["1 manciata", "rucola"], ["10 g", "grana a scaglie"]],
+    "steps": ["Componi il panino."], "tips": ""
+  },
+  {
+    "id": "snack-mela-burro-arachidi",
+    "name": "Mela o pera con burro d'arachidi",
+    "category": "snack",
+    "portions": 1, "time": "1 min", "kcal": 200, "protein": 5, "tags": ["dolce"], "keeps": "",
+    "ingredients": [["1", "mela o pera"], ["1 cucchiaio", "burro d'arachidi"]],
+    "steps": ["Taglia a spicchi e intingi."], "tips": ""
+  },
+  {
+    "id": "snack-fiocchi-frutti-bosco",
+    "name": "Fiocchi di latte con frutti di bosco e miele",
+    "category": "snack",
+    "portions": 1, "time": "2 min", "kcal": 200, "protein": 22, "tags": ["proteico"], "keeps": "",
+    "ingredients": [["200 g", "fiocchi di latte"], ["1 manciata", "frutti di bosco"], ["1 cucchiaino", "miele"]],
+    "steps": ["Mescola tutto in una ciotola."], "tips": ""
+  },
+  {
+    "id": "snack-frutta-secca-latte",
+    "name": "Frutta secca e un bicchiere di latte",
+    "category": "snack",
+    "portions": 1, "time": "0 min", "kcal": 280, "protein": 14, "tags": ["da portare"], "keeps": "",
+    "ingredients": [["25 g", "noci e mandorle"], ["250 ml", "latte"]],
+    "steps": ["Una manciata di frutta secca con un bicchiere di latte."], "tips": ""
+  }
+]
